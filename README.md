@@ -27,7 +27,7 @@ On average, clubs spend €140 on wage for every potential of their players. So 
 Football analytics
 # Content
 
-Detailed attributes for every player registered in the latest edition of FIFA 19 database. Scraping code at GitHub repo: https://github.com/amanthedorkknight/fifa18-all-player-statistics/tree/master/2019
+Detailed attributes for every player registered in the latest edition of FIFA 19 database. 
 # Acknowledgements
 
 Data scraped from https://sofifa.com/
